@@ -9,7 +9,7 @@
 
 Tool modern untuk mengubah QR Code QRIS dinamis menjadi statik tanpa nominal, atau dengan nominal tetap. Semua proses berjalan di browser Anda secara lokal - **tidak ada data yang dikirim ke server**.
 
-[![Demo](https://img.shields.io/badge/🚀-Live_Demo-success?style=for-the-badge)](https://qris-dinamis-sepia.vercel.app)
+[![Demo](https://img.shields.io/badge/🚀-Live_Demo-success?style=for-the-badge)](https://qris-dinamis-black.vercel.app)
 
 ---
 
